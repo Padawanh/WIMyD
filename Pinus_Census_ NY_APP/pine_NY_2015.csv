@@ -1,0 +1,703 @@
+,spc_common,tree_dbh,stump_diam,status,health,problems,problems,root_stone,root_grate,root_other,nta,latitude,longitude
+1312,pine,6,0,Alive,Good,None,None,No,No,No,QN38,40.73654661,-73.80037298
+2710,pine,16,0,Alive,Good,None,None,No,No,No,QN45,40.76833496,-73.7282561
+6354,white pine,29,0,Alive,Good,None,None,No,No,No,SI45,40.57547828,-74.11773796
+6667,black pine,3,0,Alive,Good,None,None,No,No,No,MN35,40.85159226,-73.9276778
+7716,pine,20,0,Alive,Good,None,None,No,No,No,QN05,40.65208201,-73.73106055
+8281,Scots pine,18,0,Alive,Good,None,None,No,No,No,QN53,40.69499552,-73.86175211
+9743,pine,34,0,Alive,Good,None,None,No,No,No,QN45,40.77039934,-73.74187809
+12055,black pine,9,0,Alive,Fair,None,None,No,No,No,SI28,40.63178868,-74.14101331
+12162,white pine,12,0,Alive,Good,None,None,No,No,No,SI32,40.53941141,-74.20524574
+13852,pine,10,0,Alive,Fair,None,None,No,No,No,BK42,40.63365582,-73.96105563
+14690,red pine,10,0,Alive,Good,None,None,No,No,No,QN27,40.76935227,-73.87528727
+15067,black pine,20,0,Alive,Good,StonesRootOther,StonesRootOther,Yes,No,Yes,BX14,40.82506047,-73.92228858
+17897,pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.57478816,-73.85084076
+19640,white pine,15,0,Alive,Good,None,None,No,No,No,BK91,40.64943845,-73.941792
+19929,pine,19,0,Alive,Good,None,None,No,No,No,QN61,40.70722529,-73.80723508
+20099,pine,14,0,Alive,Fair,None,None,No,No,No,QN10,40.57154756,-73.85832088
+21657,white pine,12,0,Alive,Fair,None,None,No,No,No,QN17,40.71132801,-73.84491315
+21960,white pine,6,0,Alive,Fair,None,None,No,No,No,BK45,40.58284472,-73.89243904
+22470,pine,9,0,Alive,Good,None,None,No,No,No,QN55,40.66701256,-73.80639486
+22780,pine,7,0,Alive,Good,None,None,No,No,No,QN15,40.59511829,-73.75140749
+23557,pine,7,0,Alive,Good,None,None,No,No,No,BX39,40.81273843,-73.92348406
+24917,pine,7,0,Alive,Good,None,None,No,No,No,BK88,40.63755951,-74.00033648
+25313,pitch pine,4,0,Alive,Good,None,None,No,No,No,QN17,40.71208025,-73.84726545
+26756,red pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.66335924,-73.87794861
+27209,pine,8,0,Alive,Good,None,None,No,No,No,BK42,40.64615757,-73.97030873
+29515,red pine,6,0,Alive,Good,None,None,No,No,No,SI54,40.53255053,-74.15256866
+31109,white pine,5,0,Alive,Good,None,None,No,No,No,BX09,40.81353178,-73.8466364
+32709,white pine,10,0,Alive,Good,None,None,No,No,No,QN62,40.7479678,-73.81968342
+32819,white pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.57349893,-73.85398856
+33829,pine,5,0,Alive,Poor,None,None,No,No,No,QN49,40.78243866,-73.8191491
+33958,pine,10,0,Alive,Good,None,None,No,No,No,MN12,40.79356762,-73.96726965
+34947,white pine,23,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,BX09,40.8177592,-73.85109585
+38094,red pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.6636043,-73.87813082
+40042,pine,4,0,Alive,Good,None,None,No,No,No,SI24,40.57349772,-74.13819161
+40109,pine,4,0,Alive,Poor,None,None,No,No,No,BX03,40.86784832,-73.83975686
+40201,white pine,18,0,Alive,Fair,None,None,No,No,No,BK45,40.61428332,-73.93259204
+42002,white pine,10,0,Alive,Good,None,None,No,No,No,BK82,40.67630661,-73.87555516
+45399,pine,2,0,Alive,Good,None,None,No,No,No,BK60,40.66014159,-73.9377234
+47100,pine,14,0,Alive,Good,None,None,No,No,No,BK76,40.72358613,-73.94958994
+47552,black pine,6,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76958162,-73.84426697
+47854,pine,4,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN66,40.67564583,-73.75458426
+48243,white pine,7,0,Alive,Good,Stones,Stones,Yes,No,No,BK30,40.6298258,-74.01263561
+48347,pine,18,0,Alive,Good,WiresRope,WiresRope,No,No,No,QN45,40.76893827,-73.73920806
+49401,white pine,6,0,Alive,Good,RootOther,RootOther,No,No,Yes,QN49,40.79217082,-73.80636989
+49642,Virginia pine,3,0,Alive,Good,None,None,No,No,No,BK82,40.67695488,-73.89944265
+49711,white pine,19,0,Alive,Good,None,None,No,No,No,QN44,40.74479678,-73.70145686
+50442,white pine,31,0,Alive,Poor,StonesRootOtherTrunkOtherBranchOther,StonesRootOtherTrunkOtherBranchOther,Yes,No,Yes,QN45,40.77020926,-73.7421092
+52874,red pine,3,0,Alive,Good,None,None,No,No,No,BK82,40.66252326,-73.87732706
+53342,Virginia pine,1,0,Alive,Good,None,None,No,No,No,BX31,40.86870382,-73.84890059
+53598,red pine,5,0,Alive,Fair,None,None,No,No,No,QN03,40.66730549,-73.78238819
+53986,pine,9,0,Alive,Good,None,None,No,No,No,QN56,40.67518193,-73.84961048
+54441,white pine,17,0,Alive,Good,Stones,Stones,Yes,No,No,BX44,40.88138754,-73.85711874
+54670,white pine,4,0,Alive,Good,WiresRopeBranchLights,WiresRopeBranchLights,No,No,No,QN51,40.76556564,-73.80321148
+54950,white pine,10,0,Alive,Good,None,None,No,No,No,QN62,40.74800976,-73.81980025
+55228,white pine,20,0,Alive,Good,RootOther,RootOther,No,No,Yes,QN44,40.74477383,-73.70138814
+56350,white pine,4,0,Alive,Good,RootOtherTrunkOtherBranchOther,RootOtherTrunkOtherBranchOther,No,No,Yes,BK19,40.57851833,-73.96033252
+56456,white pine,3,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK83,40.68172849,-73.89198632
+57029,red pine,22,0,Alive,Good,None,None,No,No,No,QN37,40.72280468,-73.8267698
+59417,red pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.66246211,-73.8772816
+60042,pine,7,0,Alive,Good,None,None,No,No,No,QN48,40.76189432,-73.78872464
+60629,white pine,25,0,Alive,Poor,TrunkOtherBranchOther,TrunkOtherBranchOther,No,No,No,QN45,40.77237895,-73.74182808
+62342,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.6721045,-73.79979246
+63221,pine,22,0,Alive,Good,None,None,No,No,No,QN45,40.7711647,-73.74069589
+63721,white pine,6,0,Alive,Fair,None,None,No,No,No,BK93,40.64852711,-73.88708462
+64067,pine,8,0,Alive,Good,None,None,No,No,No,QN06,40.71880969,-73.77099716
+65060,white pine,14,0,Alive,Poor,None,None,No,No,No,BK42,40.64665569,-73.96602608
+65177,black pine,6,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76954028,-73.84358029
+69370,red pine,5,0,Alive,Good,None,None,No,No,No,SI08,40.61577704,-74.1028612
+70576,white pine,6,0,Alive,Good,None,None,No,No,No,QN46,40.77504057,-73.77594714
+71075,pitch pine,13,0,Alive,Good,None,None,No,No,No,BK37,40.6714038,-73.97331537
+72253,red pine,23,0,Alive,Good,None,None,No,No,No,QN37,40.72369171,-73.8270901
+72914,Scots pine,17,0,Alive,Good,None,None,No,No,No,QN53,40.69502358,-73.86163215
+73478,pine,3,0,Alive,Good,None,None,No,No,No,QN51,40.76762225,-73.80871424
+73726,black pine,12,0,Alive,Fair,None,None,No,No,No,BK50,40.63701484,-73.90852018
+74061,pine,18,0,Alive,Good,None,None,No,No,No,QN07,40.70396572,-73.75951783
+76433,white pine,17,0,Alive,Good,None,None,No,No,No,BX06,40.86604659,-73.88236606
+78058,white pine,4,0,Alive,Good,None,None,No,No,No,QN10,40.57352494,-73.85392598
+78360,pitch pine,30,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN56,40.6786163,-73.8603675
+78366,pine,2,0,Alive,Good,None,None,No,No,No,QN10,40.57417703,-73.85233067
+78794,white pine,16,0,Alive,Good,None,None,No,No,No,BK42,40.64659838,-73.9666013
+79258,pine,4,0,Alive,Good,None,None,No,No,No,QN51,40.76857474,-73.81442684
+81174,red pine,2,0,Alive,Good,TrunkOtherBranchOther,TrunkOtherBranchOther,No,No,No,SI24,40.60799857,-74.10052871
+82407,white pine,15,0,Alive,Good,None,None,No,No,No,BK42,40.64627973,-73.96940145
+82763,white pine,19,0,Alive,Good,None,None,No,No,No,QN61,40.71244843,-73.77070983
+85163,red pine,8,0,Alive,Good,None,None,No,No,No,BK45,40.62000922,-73.90751013
+86124,pine,1,0,Alive,Good,None,None,No,No,No,QN20,40.71088769,-73.91614579
+86571,red pine,11,0,Alive,Good,None,None,No,No,No,QN27,40.76940149,-73.87529614
+86618,white pine,22,0,Alive,Good,None,None,No,No,No,QN08,40.68570147,-73.75248368
+86964,white pine,18,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN07,40.70954665,-73.76191973
+87723,pine,8,0,Alive,Good,None,None,No,No,No,QN46,40.76861618,-73.77882373
+88235,pine,7,0,Alive,Good,None,None,No,No,No,QN35,40.71421482,-73.79987112
+89001,pine,7,0,Alive,Fair,None,None,No,No,No,QN45,40.75329125,-73.73760933
+90160,white pine,32,0,Alive,Fair,Stones,Stones,Yes,No,No,QN45,40.77161965,-73.74243414
+91902,pine,21,0,Alive,Poor,None,None,No,No,No,SI36,40.59880808,-74.08718062
+92702,pine,5,0,Alive,Good,None,None,No,No,No,QN41,40.73182749,-73.78853474
+94353,pine,4,0,Alive,Good,None,None,No,No,No,QN50,40.73835883,-73.89865667
+95203,pine,1,0,Alive,Good,None,None,No,No,No,QN06,40.71712252,-73.78152094
+95258,pine,8,0,Alive,Good,None,None,No,No,No,BK88,40.63142782,-73.99060143
+95615,pine,4,0,Alive,Good,None,None,No,No,No,QN15,40.59511856,-73.75144457
+95801,white pine,8,0,Alive,Good,None,None,No,No,No,QN31,40.73058233,-73.92225028
+95952,pine,2,0,Alive,Good,None,None,No,No,No,BK60,40.66013807,-73.93778016
+96489,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.67214356,-73.79980836
+97805,red pine,6,0,Alive,Good,None,None,No,No,No,SI01,40.5482341,-74.178582
+98218,white pine,13,0,Alive,Good,None,None,No,No,No,QN29,40.73192876,-73.8796099
+99463,pine,4,0,Alive,Good,WiresRopeBranchLights,WiresRopeBranchLights,No,No,No,QN35,40.70876041,-73.80389297
+99609,pine,2,0,Alive,Good,None,None,No,No,No,BX52,40.84137757,-73.83255826
+101942,red pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.66318679,-73.87782039
+102248,white pine,5,0,Alive,Good,BranchOther,BranchOther,No,No,No,QN17,40.71829061,-73.85121577
+102421,pine,3,0,Alive,Good,None,None,No,No,No,SI07,40.61167666,-74.13673343
+103039,white pine,4,0,Alive,Fair,Stones,Stones,Yes,No,No,BX05,40.86950555,-73.88823258
+103902,black pine,7,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76944594,-73.84241245
+105881,pine,12,0,Alive,Good,None,None,No,No,No,QN49,40.79963347,-73.82044325
+106783,white pine,18,0,Alive,Poor,TrunkOtherBranchOther,TrunkOtherBranchOther,No,No,No,QN25,40.74509824,-73.85374637
+108682,white pine,18,0,Alive,Good,None,None,No,No,No,SI11,40.52410256,-74.22950015
+109563,white pine,24,0,Alive,Good,Stones,Stones,Yes,No,No,QN45,40.76908728,-73.74163366
+110287,red pine,5,0,Alive,Good,None,None,No,No,No,SI11,40.50020975,-74.2428497
+111076,pine,3,0,Alive,Good,None,None,No,No,No,QN15,40.59511846,-73.75142981
+111359,pitch pine,8,0,Alive,Good,None,None,No,No,No,BK40,40.64850982,-73.97474311
+113612,Scots pine,1,0,Alive,Good,None,None,No,No,No,QN20,40.7044875,-73.89157305
+114293,pine,2,0,Alive,Good,None,None,No,No,No,BK88,40.6322208,-73.9875885
+114340,white pine,12,0,Alive,Good,None,None,No,No,No,QN17,40.71139075,-73.84487321
+114597,white pine,20,0,Alive,Poor,RootOtherTrunkOtherBranchOther,RootOtherTrunkOtherBranchOther,No,No,Yes,QN45,40.77185525,-73.74252573
+115468,white pine,3,0,Alive,Good,None,None,No,No,No,QN46,40.7750524,-73.77590439
+117155,Scots pine,5,0,Alive,Good,None,None,No,No,No,QN49,40.79117095,-73.82791748
+118834,pine,5,0,Alive,Good,None,None,No,No,No,BK88,40.63930931,-73.99134705
+119861,pine,2,0,Alive,Good,None,None,No,No,No,SI05,40.60143767,-74.1215833
+121367,white pine,29,0,Alive,Good,None,None,No,No,No,QN45,40.77285208,-73.74202998
+121772,white pine,5,0,Alive,Good,None,None,No,No,No,BX52,40.82855456,-73.82200133
+123654,pine,3,0,Alive,Good,None,None,No,No,No,SI07,40.61152331,-74.13674731
+124506,pine,5,0,Alive,Good,None,None,No,No,No,QN49,40.79607045,-73.81633097
+124970,pine,8,0,Alive,Fair,None,None,No,No,No,QN45,40.7532892,-73.73763227
+125162,white pine,6,0,Alive,Good,None,None,No,No,No,SI25,40.55888338,-74.13538729
+125208,Scots pine,9,0,Alive,Good,None,None,No,No,No,BK42,40.6341774,-73.95403504
+125337,pine,8,0,Alive,Good,None,None,No,No,No,QN15,40.59510832,-73.75109756
+128310,white pine,21,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,BX09,40.81775288,-73.85114244
+128727,white pine,29,0,Alive,Good,RootOtherTrunkOther,RootOtherTrunkOther,No,No,Yes,QN23,40.79180871,-73.84353045
+128837,white pine,26,0,Alive,Fair,StonesTrunkOther,StonesTrunkOther,Yes,No,No,QN45,40.77203917,-73.74269131
+130269,pine,3,0,Alive,Good,None,None,No,No,No,QN51,40.76861957,-73.8144321
+131248,pine,4,0,Alive,Good,None,None,No,No,No,QN49,40.7893668,-73.81778244
+131680,pine,11,0,Alive,Fair,None,None,No,No,No,QN45,40.75327873,-73.73774916
+132003,black pine,3,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76954553,-73.84366738
+134684,white pine,18,0,Alive,Good,None,None,No,No,No,BX52,40.82070707,-73.80684456
+135274,Scots pine,3,0,Alive,Good,None,None,No,No,No,MN12,40.7828882,-73.97971405
+137476,red pine,9,0,Alive,Good,None,None,No,No,No,QN72,40.76908633,-73.88852269
+137687,pine,6,0,Alive,Good,None,None,No,No,No,QN66,40.6832849,-73.74919804
+137730,white pine,26,0,Alive,Good,None,None,No,No,No,QN07,40.70943897,-73.76187433
+137826,pine,3,0,Alive,Good,None,None,No,No,No,QN49,40.79915421,-73.82117336
+138051,pine,8,0,Alive,Good,None,None,No,No,No,QN55,40.66701144,-73.80636534
+138081,white pine,2,0,Alive,Good,None,None,No,No,No,SI54,40.53338136,-74.15255625
+138364,white pine,22,0,Alive,Fair,TrunkOther,TrunkOther,No,No,No,QN45,40.77221484,-73.74185909
+138866,pine,7,0,Alive,Good,None,None,No,No,No,QN48,40.7620668,-73.78659499
+139535,pine,8,0,Alive,Fair,None,None,No,No,No,QN49,40.78955511,-73.81785513
+140738,pine,4,0,Alive,Good,None,None,No,No,No,QN05,40.65801652,-73.74388333
+142009,red pine,14,0,Alive,Good,StonesBranchLightsBranchOther,StonesBranchLightsBranchOther,Yes,No,No,QN49,40.7937361,-73.81785126
+142409,pine,6,0,Alive,Good,None,None,No,No,No,QN55,40.66701455,-73.80644707
+143712,pine,2,0,Alive,Good,None,None,No,No,No,QN10,40.5692545,-73.86435503
+144418,white pine,13,0,Alive,Good,None,None,No,No,No,SI32,40.5471716,-74.19960912
+144510,white pine,23,0,Alive,Good,None,None,No,No,No,SI32,40.53902783,-74.19829818
+144646,red pine,2,0,Alive,Good,None,None,No,No,No,QN31,40.7234912,-73.91353768
+144968,white pine,32,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN45,40.77144578,-73.74303989
+146130,white pine,18,0,Alive,Good,StonesBranchLights,StonesBranchLights,Yes,No,No,QN56,40.67881661,-73.84121985
+148489,white pine,8,0,Alive,Good,None,None,No,No,No,QN29,40.72929165,-73.88047701
+151558,pine,6,0,Alive,Good,None,None,No,No,No,QN35,40.71343523,-73.80292161
+152215,white pine,10,0,Alive,Fair,None,None,No,No,No,BK79,40.67751375,-73.90182531
+153595,red pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.66311346,-73.87776587
+159988,white pine,10,0,Alive,Good,None,None,No,No,No,QN51,40.76809059,-73.80003875
+160380,red pine,18,0,Alive,Good,None,None,No,No,No,QN42,40.75407863,-73.75119994
+160640,pine,15,0,Alive,Good,None,None,No,No,No,QN66,40.67281936,-73.74843057
+161225,white pine,19,0,Alive,Good,None,None,No,No,No,QN46,40.76749376,-73.7636864
+162395,white pine,7,0,Alive,Good,None,None,No,No,No,QN06,40.71538599,-73.78345215
+164944,pine,4,0,Alive,Good,None,None,No,No,No,SI24,40.57348398,-74.1380749
+166225,pine,5,0,Alive,Good,None,None,No,No,No,QN48,40.76089788,-73.7861252
+167403,red pine,13,0,Alive,Good,None,None,No,No,No,BK58,40.6280381,-73.94126198
+167875,white pine,27,0,Alive,Good,None,None,No,No,No,SI24,40.57550979,-74.1350751
+169866,white pine,7,0,Alive,Fair,BranchLights,BranchLights,No,No,No,SI24,40.60654714,-74.09913161
+170688,red pine,4,0,Alive,Good,RootOther,RootOther,No,No,Yes,QN50,40.73610752,-73.89730775
+171937,black pine,7,0,Alive,Good,None,None,No,No,No,QN17,40.71775779,-73.84134695
+172053,white pine,10,0,Alive,Good,None,None,No,No,No,SI32,40.54733786,-74.19969395
+172065,pine,13,0,Alive,Good,BranchLightsBranchOther,BranchLightsBranchOther,No,No,No,SI25,40.57151916,-74.12183587
+174207,white pine,11,0,Alive,Good,None,None,No,No,No,BK44,40.60483168,-73.94367026
+175053,white pine,45,0,Alive,Fair,None,None,No,No,No,SI24,40.57373616,-74.1369467
+175478,black pine,22,0,Alive,Good,None,None,No,No,No,BK91,40.65007194,-73.93179598
+175827,white pine,3,0,Alive,Good,None,None,No,No,No,SI22,40.63340908,-74.11783361
+176360,pine,1,0,Alive,Good,None,None,No,No,No,BX62,40.8985447,-73.84386295
+177518,pine,4,0,Alive,Good,None,None,No,No,No,BX52,40.84058322,-73.83173269
+178898,pine,28,0,Alive,Good,None,None,No,No,No,QN45,40.77131685,-73.74083932
+179540,pine,2,0,Alive,Good,None,None,No,No,No,QN54,40.69590553,-73.81770036
+179860,pitch pine,4,0,Alive,Good,None,None,No,No,No,SI36,40.60012242,-74.08506313
+180998,white pine,18,0,Alive,Good,None,None,No,No,No,QN54,40.70182062,-73.83667173
+183041,pine,10,0,Alive,Fair,None,None,No,No,No,QN51,40.76934807,-73.82163084
+185584,pine,7,0,Alive,Good,None,None,No,No,No,QN55,40.66699671,-73.80597796
+187505,pine,5,0,Alive,Good,None,None,No,No,No,SI24,40.5905195,-74.15614937
+188488,white pine,1,0,Alive,Good,None,None,No,No,No,BX31,40.86195533,-73.84641976
+188948,pitch pine,16,0,Alive,Good,None,None,No,No,No,BX44,40.87343943,-73.86564051
+188987,red pine,7,0,Alive,Good,None,None,No,No,No,QN03,40.66730155,-73.78243332
+189211,pine,1,0,Alive,Poor,None,None,No,No,No,BK95,40.6439013,-73.95567024
+193686,black pine,13,0,Alive,Poor,None,None,No,No,No,QN46,40.76128851,-73.78400518
+194431,white pine,20,0,Alive,Fair,StonesBranchLights,StonesBranchLights,Yes,No,No,BX22,40.90249068,-73.89749732
+194687,pine,16,0,Alive,Good,None,None,No,No,No,QN48,40.76213336,-73.78577299
+195288,red pine,10,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK58,40.62768044,-73.94025563
+195888,pitch pine,11,0,Alive,Good,None,None,No,No,No,SI25,40.55663237,-74.11866542
+196979,pitch pine,6,0,Alive,Good,None,None,No,No,No,SI54,40.5411026,-74.15522012
+198901,pine,1,0,Alive,Fair,None,None,No,No,No,BK37,40.67140906,-73.99255482
+202185,white pine,11,0,Alive,Good,None,None,No,No,No,BK42,40.64671747,-73.96523743
+202632,pine,1,0,Alive,Good,None,None,No,No,No,QN21,40.7198904,-73.88715844
+202932,pine,33,0,Alive,Good,StonesWiresRope,StonesWiresRope,Yes,No,No,QN45,40.76572408,-73.73634162
+203752,pitch pine,30,0,Alive,Good,Stones,Stones,Yes,No,No,QN08,40.68154065,-73.76797096
+204902,white pine,18,0,Alive,Fair,None,None,No,No,No,QN17,40.7354905,-73.85600559
+206091,red pine,3,0,Alive,Good,None,None,No,No,No,BK82,40.66240025,-73.8772356
+207088,pine,6,0,Alive,Fair,None,None,No,No,No,SI01,40.54155831,-74.18144564
+208014,white pine,9,0,Alive,Good,None,None,No,No,No,BX03,40.88215054,-73.84105248
+209788,white pine,11,0,Alive,Fair,None,None,No,No,No,QN34,40.71199523,-73.74801903
+209969,white pine,4,0,Alive,Fair,None,None,No,No,No,QN35,40.71369179,-73.80296485
+210076,red pine,2,0,Alive,Fair,None,None,No,No,No,BK58,40.62879599,-73.94134155
+210352,pine,11,0,Alive,Good,None,None,No,No,No,BK19,40.57474824,-73.95338182
+212107,Virginia pine,6,0,Alive,Good,None,None,No,No,No,QN01,40.69295375,-73.79468439
+212815,white pine,17,0,Alive,Good,None,None,No,No,No,QN61,40.71198605,-73.77255552
+212995,Scots pine,11,0,Alive,Good,WiresRopeBranchLights,WiresRopeBranchLights,No,No,No,SI22,40.64021741,-74.0800992
+213539,pine,6,0,Alive,Good,None,None,No,No,No,QN15,40.59510826,-73.75107308
+213818,pine,19,0,Alive,Good,None,None,No,No,No,QN06,40.7135709,-73.78254806
+215171,pine,2,0,Alive,Good,None,None,No,No,No,BX52,40.82059679,-73.81794507
+215186,black pine,11,0,Alive,Poor,None,None,No,No,No,SI48,40.54898076,-74.19326781
+215257,red pine,9,0,Alive,Good,RootOtherWiresRope,RootOtherWiresRope,No,No,Yes,BK58,40.6294127,-73.94140631
+216093,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.67327903,-73.80026853
+217154,pine,8,0,Alive,Good,None,None,No,No,No,QN55,40.66417899,-73.81696353
+217281,pine,9,0,Alive,Fair,None,None,No,No,No,QN08,40.6854707,-73.76216759
+218892,Scots pine,14,0,Alive,Fair,None,None,No,No,No,BK50,40.64357608,-73.89770394
+220014,white pine,28,0,Alive,Fair,Stones,Stones,Yes,No,No,QN45,40.77082519,-73.742794
+221571,pine,5,0,Alive,Good,None,None,No,No,No,QN15,40.59511888,-73.75148742
+222293,Scots pine,20,0,Alive,Good,None,None,No,No,No,QN17,40.71503276,-73.84505159
+222723,pitch pine,9,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK58,40.62742725,-73.94082625
+226676,pine,3,0,Alive,Good,None,None,No,No,No,BK88,40.63178209,-73.99118816
+227428,pine,7,0,Alive,Good,None,None,No,No,No,BK88,40.63977594,-73.98726939
+231518,pine,2,0,Alive,Good,None,None,No,No,No,QN10,40.56927973,-73.86429313
+232234,Virginia pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.67698217,-73.89919191
+233372,pine,28,0,Alive,Good,None,None,No,No,No,QN45,40.77035481,-73.73993551
+235295,pine,9,0,Alive,Good,None,None,No,No,No,QN03,40.66478408,-73.77469872
+235690,red pine,21,0,Alive,Good,RootOther,RootOther,No,No,Yes,QN42,40.75409091,-73.75115704
+235861,Scots pine,20,0,Alive,Good,Stones,Stones,Yes,No,No,QN17,40.73228299,-73.8440579
+236756,red pine,7,0,Alive,Good,None,None,No,No,No,QN51,40.7598175,-73.79412871
+237177,pine,1,0,Alive,Good,None,None,No,No,No,QN37,40.71812905,-73.80919056
+239053,red pine,4,0,Alive,Good,None,None,No,No,No,BX49,40.8525886,-73.86117253
+240808,white pine,3,0,Alive,Good,None,None,No,No,No,QN62,40.7459701,-73.82930656
+240911,white pine,5,0,Alive,Good,None,None,No,No,No,QN66,40.68221818,-73.73338777
+241377,white pine,7,0,Alive,Good,None,None,No,No,No,SI32,40.54737878,-74.19971483
+246278,pine,17,0,Alive,Good,None,None,No,No,No,BK83,40.67969661,-73.89309573
+246398,pine,6,0,Alive,Good,None,None,No,No,No,QN55,40.66699752,-73.8059992
+247242,white pine,5,0,Alive,Good,None,None,No,No,No,QN37,40.73308357,-73.8230602
+248733,pine,18,0,Alive,Fair,None,None,No,No,No,BX62,40.8904872,-73.84380365
+249468,pine,25,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,BX09,40.82357437,-73.87113054
+250033,white pine,2,0,Alive,Good,None,None,No,No,No,SI54,40.55126005,-74.14402739
+252608,pine,17,0,Alive,Good,None,None,No,No,No,QN37,40.72175419,-73.80804787
+253459,pine,8,0,Alive,Good,Stones,Stones,Yes,No,No,QN30,40.73195607,-73.88991868
+254350,pine,3,0,Alive,Good,None,None,No,No,No,SI07,40.61146047,-74.13675302
+255439,white pine,7,0,Alive,Good,WiresRopeTrunkOther,WiresRopeTrunkOther,No,No,No,QN23,40.79249102,-73.84249414
+257594,white pine,18,0,Alive,Good,RootOtherBranchLights,RootOtherBranchLights,No,No,Yes,QN52,40.75107742,-73.80424425
+258171,red pine,4,0,Alive,Good,None,None,No,No,No,SI11,40.50341033,-74.24821914
+260746,white pine,9,0,Alive,Good,None,None,No,No,No,SI54,40.54913174,-74.14525287
+260927,pitch pine,4,0,Alive,Good,Stones,Stones,Yes,No,No,QN71,40.77356092,-73.92313894
+261008,white pine,10,0,Alive,Good,None,None,No,No,No,SI48,40.55139273,-74.19879319
+261838,pine,7,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN53,40.69786431,-73.85114741
+262590,pine,10,0,Alive,Good,None,None,No,No,No,QN55,40.66700795,-73.80627354
+262656,white pine,6,0,Alive,Good,None,None,No,No,No,BK83,40.67927633,-73.8989749
+264251,pine,9,0,Alive,Good,None,None,No,No,No,QN72,40.77021383,-73.88873468
+265588,black pine,4,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76946987,-73.84237319
+266688,pitch pine,4,0,Alive,Good,None,None,No,No,No,QN46,40.77014373,-73.7641991
+267891,white pine,14,0,Alive,Good,None,None,No,No,No,SI25,40.56444833,-74.13073796
+268033,white pine,6,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK88,40.63246726,-73.99824096
+269206,white pine,17,0,Alive,Fair,None,None,No,No,No,QN17,40.73542333,-73.85597081
+270378,black pine,5,0,Alive,Good,None,None,No,No,No,MN03,40.81241901,-73.95071392
+273986,white pine,0,0,Alive,Good,None,None,No,No,No,SI48,40.55026956,-74.19176619
+274150,pine,10,0,Alive,Good,None,None,No,No,No,BK19,40.57479988,-73.95339142
+274512,red pine,5,0,Alive,Good,Stones,Stones,Yes,No,No,BX01,40.83907723,-73.90040572
+274892,pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.75958488,-73.72043327
+276248,white pine,4,0,Alive,Good,None,None,No,No,No,QN37,40.73308433,-73.82297541
+277503,red pine,7,0,Alive,Good,None,None,No,No,No,QN52,40.75663993,-73.8138391
+279156,pine,11,0,Alive,Good,None,None,No,No,No,QN55,40.66413821,-73.81687486
+280387,Scots pine,15,0,Alive,Good,None,None,No,No,No,BX49,40.85668886,-73.86201604
+280479,red pine,26,0,Alive,Good,Stones,Stones,Yes,No,No,QN45,40.77172774,-73.74241021
+281893,white pine,5,0,Alive,Fair,None,None,No,No,No,BK58,40.62762824,-73.94121895
+282688,pitch pine,4,0,Alive,Good,None,None,No,No,No,MN14,40.77507302,-73.98436444
+282732,pine,4,0,Alive,Good,None,None,No,No,No,QN55,40.66701515,-73.80646291
+285113,red pine,5,0,Alive,Good,None,None,No,No,No,MN04,40.82832299,-73.94226278
+287339,white pine,6,0,Alive,Good,None,None,No,No,No,BX52,40.828517,-73.82207693
+287466,white pine,14,0,Alive,Good,None,None,No,No,No,SI32,40.54648193,-74.19964937
+288950,pine,8,0,Alive,Poor,TrunkOther,TrunkOther,No,No,No,QN48,40.76188569,-73.78883125
+290110,white pine,3,0,Alive,Good,None,None,No,No,No,BK58,40.62556693,-73.92663303
+290276,white pine,8,0,Alive,Good,None,None,No,No,No,QN48,40.76509793,-73.79383743
+290514,red pine,8,0,Alive,Good,None,None,No,No,No,SI11,40.50251298,-74.23712221
+290661,red pine,4,0,Alive,Good,None,None,No,No,No,QN72,40.77252536,-73.88915875
+290996,red pine,7,0,Alive,Good,RootOtherBranchLights,RootOtherBranchLights,No,No,Yes,QN50,40.73620764,-73.8969741
+291747,pine,4,0,Alive,Good,None,None,No,No,No,QN47,40.77567464,-73.78640169
+293953,pine,23,0,Alive,Good,None,None,No,No,No,SI54,40.54898229,-74.14786925
+294176,white pine,19,0,Alive,Good,None,None,No,No,No,BK46,40.61489812,-73.96655587
+296009,pine,12,0,Alive,Good,None,None,No,No,No,BK83,40.68711563,-73.86820999
+297579,white pine,1,0,Alive,Good,WiresRopeBranchLights,WiresRopeBranchLights,No,No,No,QN51,40.76564945,-73.80319998
+297659,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.67326435,-73.80026258
+298775,pitch pine,3,0,Alive,Good,None,None,No,No,No,BK76,40.72605329,-73.94966029
+298821,Virginia pine,2,0,Alive,Poor,None,None,No,No,No,MN28,40.72554689,-73.97874137
+298937,red pine,12,0,Alive,Good,None,None,No,No,No,BX07,40.86173998,-73.86183541
+299375,pine,3,0,Alive,Good,None,None,No,No,No,BK61,40.67307106,-73.92844139
+299387,pine,8,0,Alive,Good,None,None,No,No,No,QN51,40.77200593,-73.80307016
+299905,Scots pine,17,0,Alive,Good,None,None,No,No,No,QN53,40.69501858,-73.86165352
+308788,pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.75990361,-73.72050887
+310924,pine,2,0,Alive,Good,None,None,No,No,No,QN08,40.69038436,-73.77741763
+312599,white pine,9,0,Alive,Good,None,None,No,No,No,SI32,40.54693627,-74.19948904
+312860,white pine,30,0,Alive,Good,None,None,No,No,No,SI07,40.62189733,-74.12626148
+313038,Virginia pine,3,0,Alive,Good,None,None,No,No,No,QN44,40.74203625,-73.71584779
+313383,black pine,8,0,Alive,Fair,None,None,No,No,No,QN23,40.76957989,-73.84423818
+317485,red pine,28,0,Alive,Good,BranchOther,BranchOther,No,No,No,QN51,40.76721082,-73.79745095
+317716,pine,10,0,Alive,Good,None,None,No,No,No,QN52,40.75453376,-73.81049422
+317895,white pine,9,0,Alive,Good,None,None,No,No,No,BK42,40.6468269,-73.96442216
+319308,pine,17,0,Alive,Good,None,None,No,No,No,BX37,40.84997256,-73.84877093
+319868,pine,7,0,Alive,Good,None,None,No,No,No,QN55,40.66701348,-73.80641898
+320076,white pine,14,0,Alive,Good,None,None,No,No,No,SI48,40.53796411,-74.19457327
+320614,pine,12,0,Alive,Good,None,None,No,No,No,QN49,40.79717302,-73.82011865
+321246,white pine,6,0,Alive,Good,None,None,No,No,No,SI01,40.52849989,-74.17570564
+323678,pine,4,0,Alive,Good,None,None,No,No,No,QN51,40.76287464,-73.80981361
+323758,red pine,10,0,Alive,Good,None,None,No,No,No,QN27,40.76938327,-73.87529285
+324805,pine,16,0,Alive,Good,None,None,No,No,No,QN49,40.7962918,-73.82283868
+325076,white pine,14,0,Alive,Good,None,None,No,No,No,SI48,40.55018234,-74.19865431
+325551,pine,24,0,Alive,Good,Stones,Stones,Yes,No,No,QN06,40.71870929,-73.76605135
+325867,white pine,6,0,Alive,Good,None,None,No,No,No,QN62,40.74794647,-73.81962402
+327865,white pine,6,0,Alive,Poor,None,None,No,No,No,SI32,40.54648761,-74.19962531
+329550,pine,4,0,Alive,Good,None,None,No,No,No,BX59,40.82321826,-73.85467533
+330470,red pine,3,0,Alive,Good,None,None,No,No,No,SI05,40.59988382,-74.13586208
+331161,Virginia pine,3,0,Alive,Good,None,None,No,No,No,QN20,40.70452999,-73.90346963
+331391,pine,8,0,Alive,Good,None,None,No,No,No,QN66,40.67562176,-73.75451073
+335460,red pine,29,0,Alive,Good,Stones,Stones,Yes,No,No,BK31,40.62418588,-74.02313445
+335467,white pine,10,0,Alive,Good,None,None,No,No,No,SI32,40.54770824,-74.19988294
+335890,white pine,14,0,Alive,Good,None,None,No,No,No,SI25,40.56466865,-74.13065608
+336815,pine,18,0,Alive,Good,None,None,No,No,No,BK83,40.68718586,-73.86822659
+336885,pine,10,0,Alive,Fair,None,None,No,No,No,QN66,40.67513841,-73.74635072
+337033,pine,3,0,Alive,Good,None,None,No,No,No,QN72,40.77093699,-73.8965017
+338603,pine,7,0,Alive,Good,None,None,No,No,No,BK83,40.68488924,-73.87236678
+338823,red pine,18,0,Alive,Good,None,None,No,No,No,BX07,40.86181077,-73.86183317
+339212,pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.75948142,-73.72040874
+339280,red pine,3,0,Alive,Fair,None,None,No,No,No,BK78,40.69275756,-73.92138798
+345755,pine,12,0,Alive,Good,None,None,No,No,No,SI48,40.53728948,-74.19412934
+346569,red pine,15,0,Alive,Good,None,None,No,No,No,BX07,40.86179376,-73.86183371
+347074,pine,19,0,Alive,Poor,None,None,No,No,No,SI22,40.64143376,-74.09254457
+347411,pine,3,0,Alive,Good,None,None,No,No,No,QN35,40.71212925,-73.80930772
+347632,red pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.66259563,-73.87738087
+349012,black pine,5,0,Alive,Fair,None,None,No,No,No,QN23,40.76959328,-73.84446059
+350228,white pine,16,0,Alive,Good,None,None,No,No,No,SI35,40.63104315,-74.09189138
+354713,pine,14,0,Alive,Good,Stones,Stones,Yes,No,No,QN45,40.77685196,-73.7529766
+355812,white pine,15,0,Alive,Poor,None,None,No,No,No,BK42,40.64666609,-73.9659363
+355957,pine,3,0,Alive,Poor,Stones,Stones,Yes,No,No,BK82,40.67564884,-73.89113164
+356529,pine,21,0,Alive,Good,None,None,No,No,No,QN45,40.77098376,-73.74052534
+357893,pine,3,0,Alive,Good,None,None,No,No,No,QN49,40.79242351,-73.8104544
+358460,white pine,25,0,Alive,Good,None,None,No,No,No,SI45,40.57562333,-74.11759564
+359224,pine,3,0,Alive,Fair,None,None,No,No,No,QN37,40.71813934,-73.80915019
+360057,pine,10,0,Alive,Fair,None,None,No,No,No,QN10,40.57235905,-73.8587919
+360988,pine,4,0,Alive,Good,None,None,No,No,No,QN37,40.71811684,-73.80923844
+362032,pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.5744773,-73.85159911
+362249,white pine,6,0,Alive,Poor,TrunkOther,TrunkOther,No,No,No,QN45,40.77270867,-73.74243603
+362251,Scots pine,28,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,QN23,40.79171237,-73.84353115
+363262,white pine,13,0,Alive,Good,None,None,No,No,No,BK45,40.61430134,-73.93261206
+363508,pitch pine,10,0,Alive,Good,None,None,No,No,No,MN04,40.82256332,-73.94904695
+364599,white pine,15,0,Alive,Fair,TrunkOtherBranchOther,TrunkOtherBranchOther,No,No,No,QN18,40.72784133,-73.86664015
+364835,pine,4,0,Alive,Poor,None,None,No,No,No,QN45,40.75330901,-73.73741074
+364992,pine,4,0,Alive,Poor,None,None,No,No,No,BK82,40.66552407,-73.89028594
+367043,white pine,17,0,Alive,Good,None,None,No,No,No,QN43,40.73167031,-73.7336995
+367821,pine,10,0,Alive,Good,None,None,No,No,No,QN41,40.74092672,-73.77916109
+368982,pine,0,0,Alive,Good,None,None,No,No,No,SI11,40.52167351,-74.21452238
+373388,pitch pine,22,0,Alive,Good,None,None,No,No,No,QN44,40.74350695,-73.7169977
+373460,pine,21,0,Alive,Good,None,None,No,No,No,SI35,40.63526941,-74.09010852
+375840,pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.57480649,-73.85079605
+376826,pine,1,0,Alive,Good,None,None,No,No,No,BK60,40.65863734,-73.93495846
+378874,red pine,13,0,Alive,Good,None,None,No,No,No,SI48,40.54472049,-74.18937619
+379620,white pine,14,0,Alive,Good,BranchLights,BranchLights,No,No,No,SI25,40.56769038,-74.13197459
+380692,pine,2,0,Alive,Good,None,None,No,No,No,QN10,40.57413241,-73.85243898
+382245,pine,30,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN45,40.77050016,-73.74139475
+382505,pine,5,0,Alive,Good,StonesWiresRopeBranchLights,StonesWiresRopeBranchLights,Yes,No,No,BK81,40.65932465,-73.91193623
+382944,red pine,8,0,Alive,Good,None,None,No,No,No,BK83,40.68041972,-73.87333343
+383769,white pine,7,0,Alive,Good,None,None,No,No,No,SI32,40.54651901,-74.19960791
+383984,pitch pine,3,0,Alive,Good,None,None,No,No,No,QN43,40.74055322,-73.73351818
+385345,white pine,6,0,Alive,Good,None,None,No,No,No,QN08,40.68912964,-73.75353411
+387014,pine,4,0,Alive,Good,None,None,No,No,No,QN47,40.77566049,-73.78645024
+388504,pine,7,0,Alive,Good,None,None,No,No,No,QN55,40.66699923,-73.8060442
+390655,pine,7,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN53,40.69785404,-73.85119382
+392399,pine,3,0,Alive,Good,None,None,No,No,No,QN50,40.73565078,-73.90415065
+394721,pine,11,0,Alive,Fair,None,None,No,No,No,BK43,40.62644362,-73.95044376
+395444,black pine,32,0,Alive,Good,None,None,No,No,No,BK37,40.6797463,-73.97511704
+396289,Scots pine,3,0,Alive,Good,None,None,No,No,No,SI25,40.57355633,-74.13153949
+396831,pine,9,0,Alive,Good,WiresRopeTrunkLightsBranchLights,WiresRopeTrunkLightsBranchLights,No,No,No,QN57,40.66914897,-73.85340935
+400188,pine,9,0,Alive,Fair,None,None,No,No,No,QN66,40.6749202,-73.74648591
+400438,black pine,10,0,Alive,Good,None,None,No,No,No,QN35,40.71065815,-73.8040434
+403112,pine,11,0,Alive,Good,None,None,No,No,No,QN08,40.69647497,-73.76904329
+403543,white pine,5,0,Alive,Fair,None,None,No,No,No,QN29,40.72896501,-73.8817594
+404952,white pine,4,0,Alive,Good,WiresRopeBranchLights,WiresRopeBranchLights,No,No,No,QN51,40.76559266,-73.80320777
+408378,white pine,3,0,Alive,Good,None,None,No,No,No,QN46,40.7616268,-73.77611419
+408827,white pine,29,0,Alive,Good,Stones,Stones,Yes,No,No,QN45,40.7702411,-73.74224743
+410564,Scots pine,8,0,Alive,Fair,None,None,No,No,No,QN03,40.66647669,-73.78226198
+411066,pine,6,0,Alive,Good,None,None,No,No,No,QN66,40.67773702,-73.73953383
+411363,pine,3,0,Alive,Good,None,None,No,No,No,BK88,40.63948345,-73.99116618
+411421,red pine,8,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,QN62,40.74102536,-73.81928311
+414312,pine,2,0,Alive,Good,None,None,No,No,No,QN52,40.75343734,-73.81670944
+414695,pine,7,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN50,40.73829918,-73.8919313
+417455,white pine,7,0,Alive,Good,None,None,No,No,No,QN46,40.77506424,-73.77586164
+417930,pine,3,0,Alive,Good,None,None,No,No,No,SI32,40.53935152,-74.2129654
+418040,pitch pine,29,0,Alive,Good,Stones,Stones,Yes,No,No,BK68,40.68777494,-73.97003605
+419493,black pine,7,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN10,40.57093697,-73.86202418
+421885,red pine,4,0,Alive,Good,None,None,No,No,No,BK82,40.66344045,-73.87800899
+422094,white pine,13,0,Alive,Good,None,None,No,No,No,QN54,40.70194603,-73.83673251
+423140,black pine,27,0,Alive,Fair,StonesBranchOther,StonesBranchOther,Yes,No,No,BK37,40.67950356,-73.97528376
+425243,pitch pine,19,0,Alive,Good,BranchLightsBranchOther,BranchLightsBranchOther,No,No,No,BK58,40.61797431,-73.92104607
+425276,pine,15,0,Alive,Poor,None,None,No,No,No,QN46,40.77152862,-73.78715521
+427357,pine,2,0,Alive,Good,None,None,No,No,No,SI25,40.5606746,-74.11822029
+427624,white pine,23,0,Alive,Good,None,None,No,No,No,SI25,40.56459027,-74.13064918
+427837,white pine,2,0,Alive,Good,None,None,No,No,No,QN28,40.76382867,-73.87901796
+429335,red pine,4,0,Alive,Good,None,None,No,No,No,QN31,40.72354232,-73.91367027
+429447,pine,24,0,Alive,Good,None,None,No,No,No,QN06,40.71924089,-73.76511873
+429471,white pine,13,0,Alive,Good,WiresRope,WiresRope,No,No,No,QN45,40.76604017,-73.73356835
+430572,pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.75984419,-73.72049478
+433620,pine,1,0,Alive,Good,None,None,No,No,No,QN06,40.71706109,-73.78140641
+433989,white pine,26,0,Alive,Good,None,None,No,No,No,QN45,40.77256132,-73.74199785
+435224,pine,49,0,Alive,Good,None,None,No,No,No,QN45,40.7706249,-73.74017641
+435584,black pine,5,0,Alive,Good,None,None,No,No,No,BX26,40.8336472,-73.93076593
+435683,pine,15,0,Alive,Good,None,None,No,No,No,QN03,40.65947136,-73.76042824
+435687,pine,14,0,Alive,Good,Stones,Stones,Yes,No,No,QN66,40.6728397,-73.74848812
+435735,pine,6,0,Alive,Fair,None,None,No,No,No,QN45,40.75328394,-73.73769106
+435773,pine,11,0,Alive,Good,None,None,No,No,No,QN35,40.71418551,-73.79982528
+436385,black pine,5,0,Alive,Fair,None,None,No,No,No,QN23,40.76958873,-73.84438501
+436597,pine,12,0,Alive,Fair,None,None,No,No,No,QN66,40.66752666,-73.74156893
+437712,pitch pine,11,0,Alive,Good,None,None,No,No,No,MN09,40.81022769,-73.95549738
+439054,white pine,7,0,Alive,Fair,None,None,No,No,No,QN49,40.79580561,-73.81317603
+439692,red pine,11,0,Alive,Good,None,None,No,No,No,SI32,40.53019082,-74.20605559
+440046,pitch pine,21,0,Alive,Good,Stones,Stones,Yes,No,No,BX59,40.82310269,-73.8509895
+440810,pine,10,0,Alive,Good,None,None,No,No,No,QN48,40.76207494,-73.78649448
+441461,Virginia pine,10,0,Alive,Good,Stones,Stones,Yes,No,No,MN22,40.72411245,-73.98505556
+441555,white pine,8,0,Alive,Good,None,None,No,No,No,QN17,40.71135024,-73.844899
+441717,pine,17,0,Alive,Good,None,None,No,No,No,SI36,40.59845967,-74.08731103
+443036,pine,12,0,Alive,Good,None,None,No,No,No,QN46,40.76858804,-73.77892051
+443778,pine,1,0,Alive,Good,None,None,No,No,No,SI07,40.61118985,-74.13677796
+444247,black pine,9,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN20,40.70532941,-73.89326236
+444402,pine,2,0,Alive,Good,None,None,No,No,No,BK82,40.67390893,-73.87276929
+448434,white pine,12,0,Alive,Good,WiresRopeBranchLights,WiresRopeBranchLights,No,No,No,BK50,40.64436495,-73.90269311
+449612,red pine,11,0,Alive,Good,RootOtherTrunkOther,RootOtherTrunkOther,No,No,Yes,BK58,40.62925674,-73.94138993
+449720,pine,6,0,Alive,Good,None,None,No,No,No,BK42,40.63232027,-73.96291157
+450334,pine,12,0,Alive,Good,None,None,No,No,No,QN56,40.67520188,-73.84961549
+450659,pine,12,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,QN49,40.79995655,-73.82008129
+452558,pine,4,0,Alive,Fair,None,None,No,No,No,QN55,40.66701199,-73.80637974
+452778,white pine,19,0,Alive,Good,None,None,No,No,No,SI32,40.53910804,-74.20995524
+453146,white pine,12,0,Alive,Good,None,None,No,No,No,QN66,40.6714172,-73.75211469
+455879,pine,4,0,Alive,Fair,None,None,No,No,No,BK58,40.62957951,-73.94183213
+456252,pine,5,0,Alive,Fair,None,None,No,No,No,MN04,40.82501132,-73.9514422
+456892,white pine,10,0,Alive,Good,None,None,No,No,No,QN15,40.59644885,-73.75651493
+457037,pine,7,0,Alive,Good,None,None,No,No,No,QN03,40.66116779,-73.76302812
+458614,white pine,13,0,Alive,Good,Stones,Stones,Yes,No,No,QN62,40.73972713,-73.82353692
+459420,red pine,13,0,Alive,Fair,None,None,No,No,No,QN72,40.77073324,-73.8888298
+459492,pine,21,0,Alive,Good,None,None,No,No,No,QN07,40.70394236,-73.75950728
+462322,white pine,5,0,Alive,Good,None,None,No,No,No,QN29,40.72947241,-73.88023098
+463712,pine,2,0,Alive,Good,None,None,No,No,No,BK88,40.63215713,-73.98748235
+465131,red pine,20,0,Alive,Good,None,None,No,No,No,QN37,40.72345341,-73.82700633
+465288,white pine,12,0,Alive,Good,TrunkOtherBranchLights,TrunkOtherBranchLights,No,No,No,BX37,40.84476668,-73.84992852
+465400,pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.57450113,-73.85154194
+465569,Scots pine,4,0,Alive,Good,None,None,No,No,No,QN27,40.76252109,-73.87338198
+465675,pine,2,0,Alive,Good,None,None,No,No,No,QN43,40.73713701,-73.71859678
+465781,pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.75978287,-73.72048023
+466499,Scots pine,5,0,Alive,Good,None,None,No,No,No,QN49,40.79110721,-73.82805074
+467010,white pine,9,0,Alive,Good,None,None,No,No,No,BK44,40.60493288,-73.94332658
+468461,pine,2,0,Alive,Good,None,None,No,No,No,BK88,40.63171663,-73.99107974
+469487,white pine,6,0,Alive,Good,None,None,No,No,No,QN62,40.74803015,-73.81985703
+470883,pine,11,0,Alive,Fair,None,None,No,No,No,QN45,40.75326813,-73.73786673
+471068,pine,10,0,Alive,Good,None,None,No,No,No,BK19,40.57484608,-73.95340001
+471947,white pine,2,0,Alive,Good,None,None,No,No,No,SI54,40.53339423,-74.15257957
+471999,pitch pine,4,0,Alive,Good,None,None,No,No,No,QN03,40.65982377,-73.75145134
+472991,pine,2,0,Alive,Good,None,None,No,No,No,QN07,40.71660988,-73.76417203
+473336,pine,17,0,Alive,Good,None,None,No,No,No,BK45,40.61426394,-73.91879021
+474321,pine,6,0,Alive,Good,None,None,No,No,No,BK41,40.63840335,-73.97283077
+476219,white pine,3,0,Alive,Good,None,None,No,No,No,QN48,40.76506735,-73.79384162
+477336,Scots pine,3,0,Alive,Good,None,None,No,No,No,BX09,40.80992813,-73.85046549
+477855,pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.57415354,-73.85238767
+477906,Virginia pine,6,0,Alive,Good,None,None,No,No,No,MN12,40.7863001,-73.9739903
+478836,pine,13,0,Alive,Good,None,None,No,No,No,QN10,40.57095677,-73.85797956
+479709,white pine,12,0,Alive,Good,None,None,No,No,No,BK43,40.61881134,-73.95112541
+480656,red pine,19,0,Alive,Fair,None,None,No,No,No,QN42,40.7541113,-73.75108576
+484244,Scots pine,1,0,Alive,Good,None,None,No,No,No,BK77,40.70239981,-73.91309169
+485189,red pine,8,0,Alive,Good,None,None,No,No,No,SI32,40.53667549,-74.20730669
+485489,black pine,4,0,Alive,Good,None,None,No,No,No,QN37,40.72447002,-73.81641039
+486152,white pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.772719,-73.74241387
+487085,pine,1,0,Alive,Good,None,None,No,No,No,QN35,40.71229221,-73.81523054
+487796,pine,8,0,Alive,Good,None,None,No,No,No,BK83,40.6870697,-73.86819914
+489827,white pine,10,0,Alive,Fair,None,None,No,No,No,QN66,40.67138462,-73.7520904
+491423,red pine,7,0,Alive,Good,None,None,No,No,No,QN46,40.75362201,-73.76415666
+491587,white pine,16,0,Alive,Good,None,None,No,No,No,SI14,40.60116201,-74.09272898
+491722,pine,3,0,Alive,Good,None,None,No,No,No,QN46,40.75727501,-73.77511413
+491874,white pine,17,0,Alive,Poor,None,None,No,No,No,BK46,40.61498104,-73.96685069
+493289,pine,5,0,Alive,Good,None,None,No,No,No,BX44,40.87731019,-73.86687962
+495105,white pine,9,0,Alive,Good,None,None,No,No,No,SI32,40.54758802,-74.19982159
+497240,red pine,5,0,Alive,Good,None,None,No,No,No,QN52,40.76040371,-73.81138947
+499047,red pine,13,0,Alive,Good,None,None,No,No,No,QN72,40.77069844,-73.88882349
+499067,white pine,2,0,Alive,Good,None,None,No,No,No,QN49,40.79560914,-73.80305378
+499083,pine,26,0,Alive,Good,None,None,No,No,No,BK45,40.61416439,-73.91867919
+499605,white pine,5,0,Alive,Fair,None,None,No,No,No,BK83,40.67925712,-73.89897405
+499628,black pine,8,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76947337,-73.84243511
+499964,red pine,15,0,Alive,Good,None,None,No,No,No,QN43,40.73534411,-73.7250504
+500567,white pine,12,0,Alive,Poor,StonesRootOtherBranchLights,StonesRootOtherBranchLights,Yes,No,Yes,QN62,40.74018295,-73.81131145
+501122,pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.57482521,-73.8507504
+501211,pine,8,0,Alive,Good,None,None,No,No,No,BX59,40.82989828,-73.85468209
+503045,pine,5,0,Alive,Good,None,None,No,No,No,QN55,40.66651324,-73.81913722
+504964,black pine,15,0,Alive,Poor,None,None,No,No,No,QN46,40.76125227,-73.78398836
+505240,white pine,10,0,Alive,Good,None,None,No,No,No,QN51,40.75880606,-73.79564171
+506268,pine,5,0,Alive,Good,Stones,Stones,Yes,No,No,QN28,40.75309686,-73.89018557
+507517,white pine,13,0,Alive,Good,None,None,No,No,No,QN45,40.76636404,-73.72999886
+508867,pine,4,0,Alive,Good,None,None,No,No,No,QN15,40.59510812,-73.7510097
+509687,pine,4,0,Alive,Poor,BranchOther,BranchOther,No,No,No,QN10,40.57256585,-73.86198108
+509718,Scots pine,8,0,Alive,Poor,None,None,No,No,No,QN03,40.66650417,-73.78185119
+511279,pine,6,0,Alive,Good,None,None,No,No,No,QN41,40.73177459,-73.78850953
+512184,pine,22,0,Alive,Good,None,None,No,No,No,SI07,40.61705036,-74.13592615
+512228,black pine,21,0,Alive,Good,Stones,Stones,Yes,No,No,SI05,40.60153283,-74.12522824
+513946,Scots pine,2,0,Alive,Good,None,None,No,No,No,MN28,40.72551633,-73.97866876
+514511,red pine,6,0,Alive,Good,None,None,No,No,No,QN46,40.75362542,-73.7641437
+515201,pine,1,0,Alive,Good,None,None,No,No,No,BK60,40.65865786,-73.93496062
+515920,red pine,7,0,Alive,Good,None,None,No,No,No,QN27,40.76947573,-73.87530951
+516091,white pine,10,0,Alive,Good,None,None,No,No,No,BK82,40.67718193,-73.87481808
+516276,white pine,7,0,Alive,Fair,None,None,No,No,No,BK93,40.64851958,-73.88707621
+517370,pine,11,0,Alive,Good,None,None,No,No,No,QN35,40.71410675,-73.79970211
+517725,pitch pine,11,0,Alive,Good,None,None,No,No,No,BX63,40.83090575,-73.92402903
+520535,pitch pine,4,0,Alive,Good,None,None,No,No,No,BK73,40.71945371,-73.95450127
+523212,pine,7,0,Alive,Good,None,None,No,No,No,QN15,40.59730941,-73.74126626
+523915,white pine,17,0,Alive,Good,BranchLights,BranchLights,No,No,No,BX31,40.86112283,-73.84000055
+525500,pine,2,0,Alive,Good,None,None,No,No,No,QN46,40.76435928,-73.76568954
+528317,red pine,11,0,Alive,Good,None,None,No,No,No,QN42,40.74337228,-73.76549001
+530799,Scots pine,18,0,Alive,Good,None,None,No,No,No,QN53,40.69502873,-73.86161009
+531069,pine,8,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN21,40.71599199,-73.8831826
+531414,white pine,34,0,Alive,Fair,StonesTrunkOther,StonesTrunkOther,Yes,No,No,QN45,40.76939289,-73.74167912
+533012,white pine,5,0,Alive,Good,None,None,No,No,No,QN08,40.68906183,-73.75349139
+533194,pitch pine,3,0,Alive,Good,None,None,No,No,No,SI54,40.5571818,-74.15322969
+533992,black pine,5,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76958509,-73.84432455
+534634,pine,6,0,Alive,Good,None,None,No,No,No,QN44,40.75369753,-73.71842215
+535860,white pine,3,0,Alive,Good,None,None,No,No,No,BK17,40.60463526,-73.93030523
+537693,pine,13,0,Alive,Good,None,None,No,No,No,QN51,40.76169027,-73.79922147
+538996,white pine,13,0,Alive,Good,None,None,No,No,No,BK44,40.60491467,-73.94349124
+539292,black pine,9,0,Alive,Good,None,None,No,No,No,QN66,40.67010034,-73.75284647
+540679,white pine,15,0,Alive,Good,None,None,No,No,No,BK44,40.6049656,-73.94303077
+541829,red pine,11,0,Alive,Good,None,None,No,No,No,QN51,40.76773104,-73.81340559
+542297,pine,10,0,Alive,Good,None,None,No,No,No,QN55,40.66700413,-73.80617309
+548220,white pine,20,0,Alive,Fair,RootOtherWiresRopeBranchLights,RootOtherWiresRopeBranchLights,No,No,Yes,SI24,40.59151082,-74.10790323
+548540,red pine,11,0,Alive,Fair,None,None,No,No,No,QN03,40.66735885,-73.78177651
+549457,white pine,7,0,Alive,Good,None,None,No,No,No,SI54,40.55446168,-74.15518778
+549593,black pine,4,0,Alive,Good,None,None,No,No,No,QN37,40.7250806,-73.81658915
+550087,pine,9,0,Alive,Good,None,None,No,No,No,QN55,40.66699529,-73.80594052
+550099,red pine,3,0,Alive,Good,None,None,No,No,No,BK30,40.61463364,-74.02547713
+551640,white pine,28,0,Alive,Good,Stones,Stones,Yes,No,No,QN45,40.77171464,-73.74273018
+554485,red pine,13,0,Alive,Good,None,None,No,No,No,QN42,40.75407012,-73.75122967
+556875,red pine,11,0,Alive,Good,None,None,No,No,No,QN72,40.77045709,-73.88877972
+557251,black pine,5,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76958747,-73.84436414
+560512,red pine,14,0,Alive,Good,None,None,No,No,No,QN27,40.76956655,-73.87532587
+560880,pine,8,0,Alive,Good,None,None,No,No,No,SI48,40.54081041,-74.18749814
+561132,white pine,13,0,Alive,Good,None,None,No,No,No,SI32,40.53399359,-74.20751562
+562464,pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.76019696,-73.72057845
+565258,pine,13,0,Alive,Good,None,None,No,No,No,SI24,40.5883919,-74.15440534
+565259,white pine,11,0,Alive,Fair,None,None,No,No,No,QN46,40.75237836,-73.76449979
+565569,pine,6,0,Alive,Fair,None,None,No,No,No,QN45,40.75329458,-73.73757205
+566193,white pine,25,0,Alive,Good,None,None,No,No,No,QN45,40.77112109,-73.74811858
+566785,red pine,11,0,Alive,Good,None,None,No,No,No,BX07,40.861774,-73.86183433
+567320,black pine,8,0,Alive,Good,None,None,No,No,No,QN34,40.71337244,-73.73164521
+568903,Scots pine,14,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN63,40.74866746,-73.90891097
+569794,white pine,16,0,Alive,Good,None,None,No,No,No,QN43,40.72975084,-73.74065714
+571286,pine,5,0,Alive,Good,None,None,No,No,No,QN48,40.75948469,-73.78843884
+571531,red pine,7,0,Alive,Good,BranchLights,BranchLights,No,No,No,SI08,40.61578713,-74.10283933
+571835,pine,29,0,Alive,Fair,None,None,No,No,No,QN45,40.77229067,-73.74167995
+572480,white pine,7,0,Alive,Good,None,None,No,No,No,SI22,40.63362599,-74.11787839
+573287,pitch pine,8,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,MN20,40.74429253,-73.9769367
+573397,red pine,10,0,Alive,Fair,None,None,No,No,No,BX52,40.83989965,-73.83158809
+574480,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.67212259,-73.79979982
+575403,pine,24,0,Alive,Good,StonesWiresRope,StonesWiresRope,Yes,No,No,QN06,40.71881007,-73.76588921
+576667,red pine,1,0,Alive,Fair,None,None,No,No,No,SI22,40.62799128,-74.12381738
+576862,red pine,10,0,Alive,Good,None,None,No,No,No,QN35,40.71547636,-73.81298196
+577121,red pine,9,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK58,40.62776997,-73.94123383
+577182,pine,6,0,Alive,Good,None,None,No,No,No,QN10,40.57661873,-73.85717826
+577773,red pine,13,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK58,40.62950298,-73.94141579
+578994,white pine,3,0,Alive,Good,None,None,No,No,No,SI36,40.59366342,-74.09389169
+579775,pine,33,0,Alive,Fair,Stones,Stones,Yes,No,No,QN38,40.73437624,-73.80214105
+579988,pine,3,0,Alive,Good,None,None,No,No,No,BK88,40.6393782,-73.9912755
+581600,Scots pine,1,0,Alive,Good,None,None,No,No,No,QN20,40.70450596,-73.89156028
+581952,pine,3,0,Alive,Good,None,None,No,No,No,SI07,40.61078945,-74.13681296
+582969,red pine,4,0,Alive,Good,None,None,No,No,No,QN17,40.71316519,-73.85080633
+584166,pitch pine,14,0,Alive,Good,None,None,No,No,No,SI54,40.54507183,-74.13970331
+585334,red pine,16,0,Alive,Good,None,None,No,No,No,BX07,40.86160443,-73.86183969
+586337,pine,1,0,Alive,Good,None,None,No,No,No,QN23,40.79027197,-73.8418785
+586781,white pine,15,0,Alive,Good,WiresRopeBranchLights,WiresRopeBranchLights,No,No,No,SI54,40.55455058,-74.15109306
+587811,pitch pine,9,0,Alive,Good,None,None,No,No,No,BK83,40.6850009,-73.87411733
+588305,white pine,13,0,Alive,Fair,Stones,Stones,Yes,No,No,MN15,40.76688288,-73.99105841
+588749,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.67224214,-73.79984849
+588840,white pine,4,0,Alive,Fair,None,None,No,No,No,QN10,40.56104162,-73.90680309
+591051,red pine,12,0,Alive,Good,None,None,No,No,No,QN01,40.69910518,-73.78648292
+591188,white pine,7,0,Alive,Good,WiresRope,WiresRope,No,No,No,QN06,40.71539344,-73.78334423
+592862,white pine,4,0,Alive,Fair,Stones,Stones,Yes,No,No,QN27,40.76572944,-73.86970102
+593027,pitch pine,4,0,Alive,Good,None,None,No,No,No,MN35,40.8515331,-73.92753667
+593437,white pine,16,0,Alive,Good,None,None,No,No,No,BX22,40.90293154,-73.89833326
+594119,pine,25,0,Alive,Good,None,None,No,No,No,BK96,40.65183077,-73.92658322
+595029,red pine,12,0,Alive,Good,None,None,No,No,No,SI01,40.54824899,-74.17860727
+595330,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.67221854,-73.79983888
+596119,red pine,9,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK58,40.62759727,-73.94024678
+597247,pine,1,0,Alive,Good,None,None,No,No,No,SI25,40.5638496,-74.12347132
+597565,pine,3,0,Alive,Good,None,None,No,No,No,QN51,40.76853209,-73.81442183
+598106,white pine,10,0,Alive,Good,None,None,No,No,No,QN34,40.72060862,-73.73483022
+599035,pitch pine,25,0,Alive,Good,Stones,Stones,Yes,No,No,QN52,40.7464116,-73.80348831
+601032,white pine,12,0,Alive,Good,None,None,No,No,No,QN35,40.71656261,-73.7945841
+602579,pine,18,0,Alive,Good,None,None,No,No,No,QN48,40.76205774,-73.79191131
+605136,white pine,2,0,Alive,Good,None,None,No,No,No,SI14,40.60454691,-74.08571405
+605404,white pine,25,0,Alive,Good,Stones,Stones,Yes,No,No,QN45,40.77278596,-73.7511818
+606851,white pine,10,0,Alive,Good,None,None,No,No,No,QN62,40.74798843,-73.81974085
+606994,pine,7,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN50,40.73830092,-73.89203484
+607391,white pine,21,0,Alive,Poor,RootOtherTrunkOther,RootOtherTrunkOther,No,No,Yes,QN45,40.77056497,-73.74241968
+610252,pine,1,0,Alive,Good,None,None,No,No,No,QN23,40.79035778,-73.84187296
+611528,pine,1,0,Alive,Good,None,None,No,No,No,BK88,40.63770594,-73.99213984
+611870,red pine,1,0,Alive,Good,None,None,No,No,No,BK75,40.68734986,-73.95459944
+612104,pine,2,0,Alive,Good,None,None,No,No,No,QN50,40.7370087,-73.8979114
+614452,white pine,17,0,Alive,Fair,None,None,No,No,No,QN45,40.77728058,-73.75336727
+614574,Scots pine,6,0,Alive,Fair,None,None,No,No,No,SI12,40.639843,-74.16819184
+615000,white pine,11,0,Alive,Good,None,None,No,No,No,BK42,40.64798463,-73.96464809
+615236,pine,7,0,Alive,Good,None,None,No,No,No,QN66,40.68335445,-73.74915949
+615300,red pine,14,0,Alive,Good,None,None,No,No,No,BX07,40.86192547,-73.86182955
+616798,red pine,3,0,Alive,Good,WiresRope,WiresRope,No,No,No,BX30,40.86250212,-73.90354793
+619169,pine,4,0,Alive,Fair,StonesBranchLights,StonesBranchLights,Yes,No,No,BK82,40.67557659,-73.89111345
+622113,red pine,11,0,Alive,Fair,None,None,No,No,No,QN72,40.77037718,-73.88876492
+623048,white pine,20,0,Alive,Good,None,None,No,No,No,QN35,40.71657182,-73.79455165
+623238,pine,2,0,Alive,Good,None,None,No,No,No,QN76,40.67324887,-73.8002563
+623266,white pine,18,0,Alive,Good,None,None,No,No,No,BK44,40.60496739,-73.94465073
+623462,Virginia pine,2,0,Alive,Poor,None,None,No,No,No,BK37,40.66767127,-73.98742626
+624580,pitch pine,3,0,Alive,Good,None,None,No,No,No,BK83,40.68091828,-73.87085967
+625392,pine,28,0,Alive,Good,None,None,No,No,No,QN06,40.71896542,-73.76561487
+625680,white pine,4,0,Alive,Good,None,None,No,No,No,SI22,40.63357176,-74.1178672
+627072,red pine,2,0,Alive,Good,None,None,No,No,No,QN47,40.77665565,-73.78901518
+629299,red pine,3,0,Alive,Good,None,None,No,No,No,BK44,40.60687383,-73.95170654
+630363,red pine,17,0,Alive,Poor,None,None,No,No,No,QN46,40.76238494,-73.76895715
+631109,pine,1,0,Alive,Good,None,None,No,No,No,QN06,40.71697028,-73.78139644
+632346,pine,8,0,Alive,Fair,WiresRope,WiresRope,No,No,No,BX31,40.85990375,-73.84876052
+633806,red pine,9,0,Alive,Good,BranchLightsBranchOther,BranchLightsBranchOther,No,No,No,SI08,40.61583617,-74.10273302
+633914,pine,8,0,Alive,Good,None,None,No,No,No,QN35,40.71534793,-73.81297886
+634338,red pine,10,0,Alive,Good,None,None,No,No,No,QN27,40.76953718,-73.87532058
+634394,white pine,20,0,Alive,Good,None,None,No,No,No,QN49,40.78620898,-73.81935613
+634904,white pine,4,0,Alive,Fair,None,None,No,No,No,BK45,40.58266041,-73.89223426
+635188,white pine,10,0,Alive,Good,None,None,No,No,No,SI48,40.5445315,-74.19197645
+635999,pine,4,0,Alive,Good,None,None,No,No,No,QN45,40.75976207,-73.7204753
+637978,red pine,10,0,Alive,Fair,BranchLights,BranchLights,No,No,No,QN49,40.79380121,-73.81787735
+638464,red pine,6,0,Alive,Good,RootOther,RootOther,No,No,Yes,SI08,40.61581869,-74.10277092
+638568,pine,1,0,Alive,Good,None,None,No,No,No,BX03,40.87230391,-73.84889697
+638820,pine,13,0,Alive,Good,None,None,No,No,No,SI14,40.59389151,-74.0669932
+639974,white pine,2,0,Alive,Good,None,None,No,No,No,QN17,40.71826707,-73.85123053
+641178,pine,3,0,Alive,Good,TrunkOther,TrunkOther,No,No,No,BK37,40.67131465,-73.99235941
+642371,red pine,24,0,Alive,Good,None,None,No,No,No,QN49,40.7791842,-73.8177819
+642399,pine,6,0,Alive,Good,None,None,No,No,No,QN43,40.7307981,-73.72730323
+642482,black pine,12,0,Alive,Good,RootOtherWiresRope,RootOtherWiresRope,No,No,Yes,QN45,40.7687948,-73.73910318
+642551,pine,40,0,Alive,Good,StonesBranchLights,StonesBranchLights,Yes,No,No,BX13,40.87045253,-73.83427145
+643797,white pine,8,0,Alive,Fair,None,None,No,No,No,SI32,40.54752509,-74.19978949
+645150,red pine,6,0,Alive,Good,None,None,No,No,No,QN55,40.66422405,-73.81695065
+646249,pine,35,0,Alive,Good,None,None,No,No,No,QN48,40.75071637,-73.77940863
+646292,red pine,9,0,Alive,Good,RootOtherBranchLights,RootOtherBranchLights,No,No,Yes,SI08,40.61580846,-74.10279311
+647336,white pine,14,0,Alive,Good,None,None,No,No,No,BX31,40.86102845,-73.8400041
+647427,red pine,4,0,Alive,Good,None,None,No,No,No,BK81,40.66339601,-73.91887546
+647755,black pine,4,0,Alive,Good,None,None,No,No,No,QN37,40.72443595,-73.81652459
+649888,pine,5,0,Alive,Good,None,None,No,No,No,QN15,40.59511872,-73.75146546
+650155,pine,3,0,Alive,Good,None,None,No,No,No,QN52,40.75787854,-73.79860343
+650285,pine,2,0,Alive,Fair,None,None,No,No,No,MN04,40.82701563,-73.94770897
+650488,pine,11,0,Alive,Good,Stones,Stones,Yes,No,No,BX33,40.82004271,-73.89742652
+655529,red pine,23,0,Alive,Good,None,None,No,No,No,QN08,40.68536076,-73.75294417
+655918,red pine,24,0,Alive,Good,None,None,No,No,No,QN37,40.72262137,-73.82670757
+656645,pine,9,0,Alive,Good,None,None,No,No,No,QN15,40.59510807,-73.7509827
+659075,white pine,10,0,Alive,Good,None,None,No,No,No,BK93,40.64853422,-73.88709256
+659376,pine,3,0,Alive,Good,None,None,No,No,No,QN10,40.57451746,-73.85150277
+659852,pine,2,0,Alive,Good,None,None,No,No,No,BK42,40.6461779,-73.97013163
+660246,white pine,34,0,Alive,Good,Stones,Stones,Yes,No,No,QN45,40.7718116,-73.74261267
+661177,red pine,8,0,Alive,Good,None,None,No,No,No,QN52,40.76037339,-73.81150019
+661321,pine,17,0,Alive,Good,None,None,No,No,No,QN49,40.79859128,-73.82101658
+664070,pine,2,0,Alive,Good,None,None,No,No,No,QN45,40.76713829,-73.74649968
+664346,pine,18,0,Alive,Good,None,None,No,No,No,BX37,40.84868539,-73.85141067
+664514,black pine,5,0,Alive,Good,None,None,No,No,No,BK90,40.71182968,-73.9426633
+665550,pine,8,0,Alive,Good,None,None,No,No,No,SI24,40.60486754,-74.10734294
+667773,white pine,15,0,Alive,Good,BranchLights,BranchLights,No,No,No,QN54,40.70194593,-73.83660077
+668067,pine,8,0,Alive,Good,None,None,No,No,No,QN55,40.66700197,-73.80611621
+669767,red pine,18,0,Alive,Good,None,None,No,No,No,QN42,40.75410135,-73.75112056
+669827,pine,4,0,Alive,Good,None,None,No,No,No,BX49,40.85044203,-73.85913012
+670412,pine,4,0,Alive,Good,Stones,Stones,Yes,No,No,QN35,40.70869655,-73.80377769
+670471,pitch pine,4,0,Alive,Good,None,None,No,No,No,SI36,40.60013234,-74.08506929
+670640,pitch pine,25,0,Alive,Good,Stones,Stones,Yes,No,No,QN22,40.76957112,-73.83038926
+671397,white pine,11,0,Alive,Fair,BranchLights,BranchLights,No,No,No,BX31,40.86094779,-73.84000713
+671959,black pine,7,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN23,40.76954999,-73.84374152
+676516,pine,2,0,Alive,Fair,None,None,No,No,No,SI35,40.62538711,-74.10115639
+676842,pine,12,0,Alive,Good,None,None,No,No,No,QN35,40.71413695,-73.79974933
+677052,pine,11,0,Alive,Fair,TrunkOtherBranchOther,TrunkOtherBranchOther,No,No,No,BK58,40.61792708,-73.94333687
+677534,black pine,4,0,Alive,Good,None,None,No,No,No,MN03,40.81238503,-73.95063133
+677660,pine,10,0,Alive,Fair,BranchOther,BranchOther,No,No,No,QN10,40.57745541,-73.85860361
+678879,pine,9,0,Alive,Good,None,None,No,No,No,QN55,40.66699831,-73.80602008
+678914,pine,4,0,Alive,Good,None,None,No,No,No,BX10,40.84172016,-73.82020365
+679846,white pine,12,0,Alive,Fair,None,None,No,No,No,QN17,40.71136951,-73.84488674
+679857,red pine,21,0,Alive,Good,StonesRootOtherTrunkOther,StonesRootOtherTrunkOther,Yes,No,Yes,QN03,40.66512456,-73.75723454
+680007,white pine,4,0,Alive,Good,None,None,No,No,No,QN10,40.57347332,-73.8540502
+680162,pine,5,0,Alive,Fair,None,None,No,No,No,QN55,40.66436136,-73.81691139
+680695,pine,7,0,Alive,Good,None,None,No,No,No,QN44,40.75372455,-73.71844691
+681441,white pine,6,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK58,40.62753139,-73.94120878
+682644,red pine,12,0,Alive,Good,RootOther,RootOther,No,No,Yes,BK58,40.62907452,-73.9413708
+683018,pine,5,0,Alive,Good,None,None,No,No,No,QN06,40.71803344,-73.77214674
+683045,pine,8,0,Alive,Good,None,None,No,No,No,BK83,40.68753434,-73.86830895
+683083,white pine,25,0,Alive,Good,None,None,No,No,No,SI32,40.5398773,-74.20952202
+683420,pine,11,0,Alive,Good,None,None,No,No,No,SI24,40.5884273,-74.15437123
+683503,red pine,9,0,Alive,Good,None,None,No,No,No,QN72,40.76903178,-73.88849183
+683614,pine,1,0,Alive,Good,None,None,No,No,No,QN07,40.70794138,-73.75239528
